@@ -16,7 +16,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rezaconz&show_icons=true&locale=en&layout=compact" alt="rezaconz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaconz&show_icons=true&locale=en" alt="rezaconz" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rezaconz&" alt="rezaconz" /></p>
 
