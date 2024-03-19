@@ -4,7 +4,7 @@ My name is **Reza**
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently mastering my skill on Android and Flutter
+- 🌱 I’m currently mastering my skill on Android, Flutter, and React
 - 👯 I’m looking for collaborative friends on Android Development
 
 
