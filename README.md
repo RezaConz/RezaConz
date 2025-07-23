@@ -2,7 +2,7 @@
 ### Hi there 👋
 My name is **Reza**
 
-- 🌱 I’m currently mastering my skill on Android, Flutter, React, AI
+- 🌱 I’m currently mastering my skill on Android, Flutter, React, and AI
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RezaConz/RezaConz/blob/output/github-contribution-grid-snake-dark.svg">
